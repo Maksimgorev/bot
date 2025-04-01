@@ -5,7 +5,7 @@ from datetime import datetime
 import per
 
 
-bot =telebot.TeleBot ('7596809730:AAHJfWfdYKvaKReThk1Or7wGtaEgZ1daiJU')
+bot =telebot.TeleBot ('')
 
 
 
